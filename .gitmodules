@@ -1,0 +1,3 @@
+[submodule "submodules/gun-rs-wasm"]
+	path = submodules/gun-rs-wasm
+	url = git@github.com:mmalmi/gun-rs-wasm.git
