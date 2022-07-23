@@ -1,4 +1,4 @@
-## privisioning dev env w/ nix
+## provisioning dev env w/ nix
 
 requires a [Flakes-compatible Nix](https://nixos.wiki/wiki/Flakes).
 
