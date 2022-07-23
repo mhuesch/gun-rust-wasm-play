@@ -2,5 +2,8 @@
   "devDependencies": {
   },
   "scripts": {
+    "build": "wasm-pack build --target web && rollup -c",
+    "doc": "cargo doc --target wasm32-unknown-unknown",
+    "serve": "miniserve -p 8080 ."
   }
 }
